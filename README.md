@@ -1,6 +1,6 @@
-<a href="https://discord.com/users/929208515883569182"> <img align="center" src="https://lanyard.cnrad.dev/api/929208515883569182"/></a>
+<a href="https://discord.com/users/929208515883569182"><img align="center" src="https://lanyard.cnrad.dev/api/929208515883569182"/></a>
 
-<a href="https://discord.com/users/1169090291404382208"> <img align="center" src="https://lanyard.cnrad.dev/api/1169090291404382208"/></a>
+<a href="https://discord.com/users/1169090291404382208"><img align="center" src="https://lanyard.cnrad.dev/api/1169090291404382208"/></a>
 
 # Info
 
