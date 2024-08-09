@@ -15,6 +15,10 @@ Krystal/Cassidy🎀
 Bisexual💖💜💙  
 Self-Taught Dev
 
+![Css](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/3pngh7ba.png)
+![Html](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/dagtojmr.png)
+![TypeScript](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/5h3t10im.png)
+![JavaScript](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/208krgzk.png)
 
 # Stats
 
