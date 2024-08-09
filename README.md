@@ -1,6 +1,23 @@
 <a href="https://discord.com/users/929208515883569182"><img align="center" src="https://lanyard.cnrad.dev/api/929208515883569182"/></a>
 
 <a href="https://discord.com/users/1169090291404382208"><img align="center" src="https://lanyard.cnrad.dev/api/1169090291404382208"/></a>
+# Other Badges
+
+Vencord Badges- 
+
+![:3 girl](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1tkh0glq.png)
+![Empty Brain](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1m81004i.png)
+
+Equicord Badges - 
+
+![Equicord Contributor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/rjq8qmfu.png)
+![TransCat](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/klglepfc.png)
+![Certified Freak](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/dtgqmtdx.png)
+
+ReviewDB Badges -
+
+![Donor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/3y4vm6by.png)
+
 
 # Info
 
@@ -19,6 +36,7 @@ Self-Taught Dev
 ![Html](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/dagtojmr.png)
 ![TypeScript](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/5h3t10im.png)
 ![JavaScript](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/208krgzk.png)
+![Markdown](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/hqv7hyy3.png)
 
 # Stats
 
