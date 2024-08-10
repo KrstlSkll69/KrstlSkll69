@@ -1,6 +1,6 @@
 <div align="center">  
 
-# HELLO 😺 
+# HOWD'Y 👋
 My name is Krystal
 
 https://krstlskll69.github.io/
@@ -25,16 +25,16 @@ Self-Taught Dev
 
 **OS:**
 
-[![OS](https://skillicons.dev/icons?i=windows,linux,apple,mint)](https://skillicons.dev)
-
-</div>
+[![OS](https://skillicons.dev/icons?i=windows,apple,mint)](https://skillicons.dev)
 
 
-<a href="https://discord.com/users/929208515883569182"><img align="center" src="https://lanyard.cnrad.dev/api/929208515883569182"/></a>
 
-<a href="https://discord.com/users/1169090291404382208"><img align="center" src="https://lanyard.cnrad.dev/api/1169090291404382208"/></a>
+<a href="https://discord.com/users/929208515883569182"><img align="center" width="300" src="https://lanyard.cnrad.dev/api/929208515883569182"/></a>
+<a href="https://discord.com/users/1169090291404382208"><img align="center" width="300" src="https://lanyard.cnrad.dev/api/1169090291404382208"/></a>
 
-## Other Badges
+_hellfire.harlot is my secondary github account_
+
+### Other Badges:
 
 Vencord Badges- 
 
@@ -51,6 +51,8 @@ ReviewDB Badges -
 
 ![Donor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/3y4vm6by.png)
 
+</div>
+
 
 ## My Projects:
 
@@ -58,15 +60,15 @@ ReviewDB Badges -
 
 > **[Discord Css Snippets](https://github.com/KrstlSkll69/vc-snippets)**
 
-## Stats
+## Stats:
 
-### Main Account
+### Main Account (KrstlSkll69):
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=KrstlSkll69&show_icons=true&count_private=true&theme=dracula&bg_color=00000000">
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KrstlSkll69&layout=compact&theme=dracula&bg_color=00000000&langs_count=6&20notebook,tex,css,php,mb">
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=KrstlSkll69&theme=dracula&background=FFFFFF00">
 
 
-### Secondary Account
+### Secondary Account (KrystalSkullOfficial):
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=KrystalSkullOfficial&show_icons=true&count_private=true&theme=dracula&bg_color=00000000">
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystalSkullOfficial&layout=compact&theme=dracula&bg_color=00000000&langs_count=6&20notebook,tex,css,php,mb">
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=KrystalSkullOfficial&theme=dracula&background=FFFFFF00">
