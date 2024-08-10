@@ -57,3 +57,5 @@ Self-Taught Dev
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=KrystalSkullOfficial&show_icons=true&count_private=true&theme=dracula&bg_color=00000000">
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystalSkullOfficial&layout=compact&theme=dracula&bg_color=00000000&langs_count=6&20notebook,tex,css,php,mb">
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=KrystalSkullOfficial&theme=dracula&background=FFFFFF00">
+
+![](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/7vw6gev5.png)
