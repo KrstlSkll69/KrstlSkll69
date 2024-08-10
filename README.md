@@ -32,16 +32,16 @@ Self-Taught Dev
 <a href="https://discord.com/users/929208515883569182"><img align="center" width="300" src="https://lanyard.cnrad.dev/api/929208515883569182"/></a>
 <a href="https://discord.com/users/1169090291404382208"><img align="center" width="300" src="https://lanyard.cnrad.dev/api/1169090291404382208"/></a>
 
-_hellfire.harlot is my secondary discord account_
+_hellfire.harlot is my Alt-Discord account_
 
 ### Other Badges:
 
-Vencord Badges- 
+[Vencord](https://vencord.dev/) Badges- 
 
 ![:3 girl](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1tkh0glq.png)
 ![Empty Brain](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1m81004i.png)
 
-ReviewDB Badges -
+[ReviewDB](https://reviewdb.mantikafasi.dev/) Badges -
 
 ![Donor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/3y4vm6by.png)
 
@@ -53,7 +53,7 @@ Equicord Badges -
 ![Certified Freak](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/dtgqmtdx.png)
 ![Thats Bananas](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/qumg3r2o.png)
 
-[EOL] Suncord Badges -
+[EOL] [Suncord](https://github.com/verticalsync/Suncord) Badges -
 
 ![Suncord Contributor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/ciihzuzn.png)
 ![Suncord Donor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/hdxpb3hb.png)
@@ -68,7 +68,7 @@ Equicord Badges -
 
 > **[Discord Css Snippets](https://github.com/KrstlSkll69/vc-snippets)**
 
-> **[Equicord](https://github.com/Equicord/Equicord) *fork of [Vencord](https://vencord.dev/)***
+> **[Equicord](https://github.com/Equicord/Equicord) *fork of Vencord***
 
 
 
