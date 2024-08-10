@@ -32,7 +32,7 @@ Self-Taught Dev
 <a href="https://discord.com/users/929208515883569182"><img align="center" width="300" src="https://lanyard.cnrad.dev/api/929208515883569182"/></a>
 <a href="https://discord.com/users/1169090291404382208"><img align="center" width="300" src="https://lanyard.cnrad.dev/api/1169090291404382208"/></a>
 
-_hellfire.harlot is my secondary github account_
+_hellfire.harlot is my secondary discord account_
 
 ### Other Badges:
 
@@ -54,11 +54,15 @@ ReviewDB Badges -
 </div>
 
 
-## My Projects:
+## Projects:
 
 > **[My Website Repo](https://github.com/KrstlSkll69/krstlskll69.github.com)**
 
 > **[Discord Css Snippets](https://github.com/KrstlSkll69/vc-snippets)**
+
+> **[Equicord](https://github.com/Equicord/Equicord) *fork of [Vencord](https://vencord.dev/)***
+
+
 
 ## Stats:
 
