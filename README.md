@@ -25,7 +25,7 @@ Self-Taught Dev
 
 **OS:**
 
-[![OS](https://skillicons.dev/icons?i=windows,apple,mint)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=windows,apple,mint,nix,raspberrypi)](https://skillicons.dev)
 
 
 
@@ -41,15 +41,21 @@ Vencord Badges-
 ![:3 girl](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1tkh0glq.png)
 ![Empty Brain](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1m81004i.png)
 
+ReviewDB Badges -
+
+![Donor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/3y4vm6by.png)
+
+
 Equicord Badges - 
 
 ![Equicord Contributor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/rjq8qmfu.png)
 ![TransCat](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/klglepfc.png)
 ![Certified Freak](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/dtgqmtdx.png)
 
-ReviewDB Badges -
+[EOL] Suncord Badges -
 
-![Donor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/3y4vm6by.png)
+![Suncord Contributor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/ciihzuzn.png)
+
 
 </div>
 
