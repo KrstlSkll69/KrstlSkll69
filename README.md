@@ -15,6 +15,8 @@ _Know as Indiana Jone (Indi) in Discord Client mod scene_
 Bisexual💖💜💙  
 Self-Taught Dev
 
+![Programming_Socks](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/bnb3ftbu.gif) [![SBC](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/rxk4n9vp.png 'SBC')](https://www.sbc.net/about/)
+
 **Known Languages:**
 
 [![Languages](https://skillicons.dev/icons?i=css,html,ts,js,md)](https://skillicons.dev)
@@ -84,6 +86,7 @@ Equicord Badges -
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=KrystalSkullOfficial&show_icons=true&count_private=true&theme=dracula&bg_color=00000000">
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystalSkullOfficial&layout=compact&theme=dracula&bg_color=00000000&langs_count=6&20notebook,tex,css,php,mb">
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=KrystalSkullOfficial&theme=dracula&background=FFFFFF00">
+
 
 ![](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/7vw6gev5.png)
 
