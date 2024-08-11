@@ -62,6 +62,10 @@ Equicord Badges -
 ![Suncord Contributor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/ciihzuzn.png)
 ![Suncord Donor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/hdxpb3hb.png)
 
+[Nekocord](https://nekocord.dev/) Badges
+
+![The Number One](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/u9p96aow.png)
+![The Thinker](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/slj01tky.png)
 
 
 
