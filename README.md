@@ -15,7 +15,9 @@ _Know as Indiana Jone (Indi) in Discord Client mod scene_
 Bisexual💖💜💙  
 Self-Taught Dev
 
-![Programming_Socks](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/bnb3ftbu.gif) [![SBC](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/rxk4n9vp.png 'SBC')](https://www.sbc.net/about/)
+[![Programming_Socks](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/bnb3ftbu.gif 'Programmer Socks')]() 
+[![SBC](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/rxk4n9vp.png 'Southern Baptist Convention')](https://www.sbc.net/about/) 
+[![BY-NC-ND 4.0](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/0kpp91vk.png 'Proflie Picture is held under CC BY-NC-ND 4.0')](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)
 
 **Known Languages:**
 
@@ -61,8 +63,12 @@ Equicord Badges -
 ![Suncord Donor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/hdxpb3hb.png)
 
 
-</div>
 
+
+### Shout out:
+[![E-Z Image Hoster](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/o330yl7i.png 'All Images for this read.me and my website are hosted on and by E-Z image hoster')](https://e-z.gg/)
+
+</div>
 
 ## Projects:
 
@@ -89,4 +95,3 @@ Equicord Badges -
 
 
 ![](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/7vw6gev5.png)
-
