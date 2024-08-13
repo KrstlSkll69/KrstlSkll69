@@ -34,9 +34,7 @@ Self-Taught Dev
 
 
 <a href="https://discord.com/users/929208515883569182"><img align="center" width="300" src="https://lanyard.cnrad.dev/api/929208515883569182"/></a>
-<a href="https://discord.com/users/1169090291404382208"><img align="center" width="300" src="https://lanyard.cnrad.dev/api/1169090291404382208"/></a>
 
-_hellfire.harlot is my Alt-Discord account_
 
 ### Other Badges:
 
