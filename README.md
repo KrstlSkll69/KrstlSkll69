@@ -64,7 +64,7 @@ Equicord Badges -
 
 ![The Number One](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/u9p96aow.png)
 ![The Thinker](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/81vl1n63.png)
-
+![Empty Brain](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1m81004i.png)
 
 
 ### Shout out:
@@ -79,6 +79,8 @@ Equicord Badges -
 > **[Discord Css Snippets](https://github.com/KrstlSkll69/vc-snippets)**
 
 > **[Equicord](https://github.com/Equicord/Equicord) *fork of Vencord***
+
+> **[Github readme.md repo](https://github.com/KrstlSkll69/KrstlSkll69)**
 
 
 
