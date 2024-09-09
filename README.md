@@ -53,7 +53,7 @@ Equicord Badges -
 ![Equicord Contributor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/rjq8qmfu.png)
 ![TransCat](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/klglepfc.png)
 ![Certified Freak](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/dtgqmtdx.png)
-![Thats Bananas](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/qumg3r2o.png)
+![Steven](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/pea160w0.png)
 
 [EOL] [Suncord](https://github.com/verticalsync/Suncord) Badges -
 
