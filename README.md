@@ -5,8 +5,8 @@ My name is Krystal
 
 https://krstlskll69.github.io/
 
-[Main Github Account](https://github.com/KrstlSkll69) - KrstlSkll69  
-[Secondary Github Account](https://github.com/KrystalSkullOfficial) - KrystalSkullOfficial
+[Main Github Account](https://github.com/KrstlSkll69) ~ KrstlSkll69  
+[Secondary Github Account](https://github.com/KrystalSkullOfficial) ~ KrystalSkullOfficial
 
 Pro Idot Catgirl  
 Krystal/Cassidy🎀           
@@ -38,37 +38,38 @@ Self-Taught Dev
 
 ### Other Badges:
 
-[Vencord](https://vencord.dev/) Badges- 
+[Vencord](https://vencord.dev/) Badges ~ 
 
 ![:3 girl](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1tkh0glq.png)
 ![Empty Brain](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1m81004i.png)
 
-[ReviewDB](https://reviewdb.mantikafasi.dev/) Badges -
+[ReviewDB](https://reviewdb.mantikafasi.dev/) Badges ~
 
 ![Donor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/3y4vm6by.png)
 
 
-Equicord Badges - 
+Equicord Badges ~ 
 
 ![Equicord Contributor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/rjq8qmfu.png)
 ![TransCat](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/klglepfc.png)
 ![Certified Freak](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/dtgqmtdx.png)
 ![Steven](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/pea160w0.png)
 
-[EOL] [Suncord](https://github.com/verticalsync/Suncord) Badges -
+[EOL] [Suncord](https://github.com/verticalsync/Suncord) Badges ~
 
 ![Suncord Contributor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/ciihzuzn.png)
 ![Suncord Donor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/hdxpb3hb.png)
 
-[Nekocord](https://nekocord.dev/) Badges -
+[Nekocord](https://nekocord.dev/) Badges ~
 
+![Early Public Tester](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/ujo7uhvp.png)
 ![The Number One](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/u9p96aow.png)
 ![The Thinker](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/81vl1n63.png)
 ![Empty Brain](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1m81004i.png)
-![Early Public Tester](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/ujo7uhvp.png)
 
 
-### Shout out:
+
+### Shout out ~
 [![E-Z Image Hoster](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/o330yl7i.png 'All Images for this read.me and my website are hosted on and by E-Z image hoster')](https://e-z.gg/)
 
 </div>
