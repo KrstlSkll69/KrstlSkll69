@@ -3,7 +3,7 @@
 # HOWD'Y 👋
 My name is Krystal
 
-https://krstlskll69.github.io/
+https://krystal.shiggy.pt/
 
 [Main Github Account](https://github.com/KrstlSkll69) ~ KrstlSkll69  
 [Secondary Github Account](https://github.com/KrystalSkullOfficial) ~ KrystalSkullOfficial
