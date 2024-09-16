@@ -43,6 +43,7 @@ Self-Taught Dev
 
 ![:3 girl](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1tkh0glq.png)
 ![Empty Brain](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1m81004i.png)
+![me watching you sleep](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/g35oty5l.png)
 
 [ReviewDB](https://reviewdb.mantikafasi.dev/) Badges ~
 
