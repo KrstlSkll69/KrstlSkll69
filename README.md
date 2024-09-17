@@ -6,6 +6,11 @@ My name is Krystal
 https://krystal.shiggy.pt/      ~~
 https://krstlskll69.github.io/
 
+https://krystal.thororen.com/ ~~
+https://gooning.alphexo.dev ~~
+https://femboysquad.github.io/
+
+
 [Main Github Account](https://github.com/KrstlSkll69) ~ KrstlSkll69  
 [Secondary Github Account](https://github.com/KrystalSkullOfficial) ~ KrystalSkullOfficial
 
