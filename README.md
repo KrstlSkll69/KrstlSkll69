@@ -7,7 +7,6 @@ https://krystal.shiggy.pt/      ~~
 https://krstlskll69.github.io/
 
 https://krystal.thororen.com/ ~~
-https://gooning.alphexo.dev ~~
 https://femboysquad.github.io/
 
 
