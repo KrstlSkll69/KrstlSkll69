@@ -27,15 +27,17 @@ Self-Taught Dev
 
 **Known Languages:**
 
-[![Languages](https://skillicons.dev/icons?i=css,html,ts,js,md)](https://skillicons.dev)
+
+![My Languages](https://go-skill-icons.vercel.app/api/icons?i=css,html,ts,js,md)
 
 **IDE:**
 
-[![IDE](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+![IDE](https://go-skill-icons.vercel.app/api/icons?i=vscode,notepadpp&titles=true)
 
 **OS:**
 
-[![OS](https://skillicons.dev/icons?i=windows,apple,mint,nix,raspberrypi)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,apple,mint,nix,raspberrypi&titles=true)
+
 
 
 
