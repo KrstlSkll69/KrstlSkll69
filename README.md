@@ -43,8 +43,6 @@ Self-Taught Dev
 
 <a href="https://discord.com/users/929208515883569182"><img align="center" width="300" src="https://lanyard.cnrad.dev/api/929208515883569182"/></a>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=little-peanut04&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=little-peanut04&redirect=true)
-
 
 ### Other Badges:
 
