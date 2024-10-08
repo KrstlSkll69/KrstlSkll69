@@ -28,7 +28,7 @@ Self-Taught Dev
 **Known Languages:**
 
 
-![My Languages](https://go-skill-icons.vercel.app/api/icons?i=css,html,ts,js,md&titles=true&theme=dark)
+![My Languages](https://go-skill-icons.vercel.app/api/icons?i=css,md,html,qt,ts,js,&titles=true&theme=dark)
 
 **IDE:**
 
