@@ -3,7 +3,6 @@
 # HOWD'Y 👋
 My name is Krystal
 
-https://krystal.shiggy.pt/      ~~
 https://krstlskll69.github.io/
 
 https://krystal.thororen.com/ ~~
