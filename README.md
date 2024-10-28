@@ -9,6 +9,7 @@ https://krystal.thororen.com/ ~~
 https://gooning.alphexo.dev/ ~~
 https://femboysquad.github.io/
 
+CEO ~ https://viatico.github.io/
 
 [Main Github Account](https://github.com/KrstlSkll69) ~ KrstlSkll69  
 [Secondary Github Account](https://github.com/KrystalSkullOfficial) ~ KrystalSkullOfficial
@@ -41,7 +42,7 @@ Self-Taught Dev
 
 
 <a href="https://discord.com/users/929208515883569182"><img align="center" width="300" src="https://lanyard.cnrad.dev/api/929208515883569182"/></a>
-
+<a href="https://discord.com/users/1293221154156314738"><img align="center" width="300" src="https://lanyard.cnrad.dev/api/1293221154156314738"/></a>
 
 ### Other Badges:
 
