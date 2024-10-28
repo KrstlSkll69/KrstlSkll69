@@ -48,8 +48,8 @@ Self-Taught Dev
 [Vencord](https://vencord.dev/) Badges ~ 
 
 ![:3 girl](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1tkh0glq.png)
-![Empty Brain](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1m81004i.png)
 ![me watching you sleep](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/g35oty5l.png)
+![Empty Brain](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1m81004i.png)
 
 [ReviewDB](https://reviewdb.mantikafasi.dev/) Badges ~
 
@@ -59,14 +59,14 @@ Self-Taught Dev
 Equicord Badges ~ 
 
 ![Equicord Contributor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/rjq8qmfu.png)
-![TransCat](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/klglepfc.png)
+![Equicord Donor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/hdxpb3hb.png)
 ![Certified Freak](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/dtgqmtdx.png)
-![Steven](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/pea160w0.png)
+![Anderdingus](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/2bmbja5r.png)
+![Stare](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/7alc3jlj.gif)
 
 [EOL] [Suncord](https://github.com/verticalsync/Suncord) Badges ~
 
 ![Suncord Contributor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/ciihzuzn.png)
-![Suncord Donor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/hdxpb3hb.png)
 
 [Nekocord](https://nekocord.dev/) Badges ~
 
