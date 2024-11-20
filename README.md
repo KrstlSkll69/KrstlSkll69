@@ -27,8 +27,7 @@ Self-Taught Dev
 
 **Known Languages:**
 
-
-![My Languages](https://go-skill-icons.vercel.app/api/icons?i=css,md,html,qt,ts,js,&titles=true&theme=dark)
+![My Languages](https://go-skill-icons.vercel.app/api/icons?i=css,html,qt,ts,js,&titles=true&theme=dark)
 
 **IDE:**
 
@@ -76,18 +75,19 @@ Equicord Badges ~
 ![The Thinker](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/81vl1n63.png)
 ![Empty Brain](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1m81004i.png)
 
-
-
-### Shout out ~
-[![E-Z Image Hoster](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/o330yl7i.png 'All Images for this read.me and my website are hosted on and by E-Z image hoster')](https://e-z.gg/)
-
 </div>
 
 ## Projects:
 
+> **[WriteUpperCase](https://github.com/KrstlSkll69/WriteUpperCase) *a Third-party/Unofficial plugin for Vencord*** 
+
+> **[Signature](https://github.com/KrstlSkll69/Signature) *a Third-party/Unofficial plugin for Vencord*** 
+
 > **[My Website Repo](https://github.com/KrstlSkll69/krstlskll69.github.com)**
 
 > **[Discord Css Snippets](https://github.com/KrstlSkll69/vc-snippets)**
+
+> **[Vencord](https://vencord.dev/)**
 
 > **[Equicord](https://github.com/Equicord/Equicord) *fork of Vencord***
 
