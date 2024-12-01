@@ -27,16 +27,27 @@ Self-Taught Dev
 
 **Known Languages:**
 
-![My Languages](https://go-skill-icons.vercel.app/api/icons?i=css,html,qt,ts,js,&titles=true&theme=dark)
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=css,html,md,qt,ts,js&theme=dark" />
+  </a>
+</p>
 
 **IDE:**
 
-![IDE](https://go-skill-icons.vercel.app/api/icons?i=vscode,notepadpp&titles=true&theme=dark)
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,notepadpp&theme=dark" />
+  </a>
+</p>
 
 **OS:**
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,apple,mint,nix,raspberrypi&titles=true&theme=dark)
-
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,apple,mint,nix,raspberrypi&theme=dark" />
+  </a>
+</p>
 
 
 
