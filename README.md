@@ -60,9 +60,8 @@ Equicord Badges ~
 
 ![Equicord Contributor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/rjq8qmfu.png)
 ![Equicord Donor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/hdxpb3hb.png)
-![Certified Freak](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/dtgqmtdx.png)
-![Anderdingus](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/2bmbja5r.png)
-![Stare](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/7alc3jlj.gif)
+![Viatico](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/7134bemh.png)
+![Gustavo](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/if4b5v41.png)
 
 [EOL] [Suncord](https://github.com/verticalsync/Suncord) Badges ~
 
