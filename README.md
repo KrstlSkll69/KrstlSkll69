@@ -9,7 +9,7 @@ https://krystal.thororen.com/ ~~
 https://gooning.alphexo.dev/ ~~
 https://femboysquad.github.io/
 
-CEO ~ https://viatico.github.io/
+CEO/CO-Founder ~ https://viatico.github.io/
 
 [Main Github Account](https://github.com/KrstlSkll69) ~ KrstlSkll69  
 [Secondary Github Account](https://github.com/KrystalSkullOfficial) ~ KrystalSkullOfficial
@@ -29,7 +29,7 @@ Self-Taught Dev
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=css,html,md,qt,ts,js&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=css,html,md,ts,js&theme=dark" />
   </a>
 </p>
 
@@ -37,7 +37,7 @@ Self-Taught Dev
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,notepadpp&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,notepadpp,qt&theme=dark" />
   </a>
 </p>
 
