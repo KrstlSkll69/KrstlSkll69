@@ -22,9 +22,11 @@ Bisexual💖💜💙
 Self-Taught Dev
 
 [![Programming_Socks](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/bnb3ftbu.gif 'Programmer Socks')](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/gbls9azs.png) 
+[![Boykisser](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/zc19lzgz.png 'You like kissing boys dont you')](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/nu5x4dz5.mp4)
 [![SBC](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/rxk4n9vp.png 'Southern Baptist Convention')](https://www.sbc.net/about/) 
 [![BY-NC-ND 4.0](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/0kpp91vk.png 'Profile  Picture is held under CC BY-NC-ND 4.0')](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)
 [![piracy now](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/719ne34x.png 'piracy now')]()
+
 
 **Known Languages:**
 
