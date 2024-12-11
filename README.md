@@ -3,7 +3,8 @@
 # HOWD'Y 👋
 My name is Krystal
 
-https://krstlskll69.github.io/
+https://krstlskll69.github.io/ ~~
+https://krstlskll69.pages.gay/
 
 https://krystal.thororen.com/ ~~
 https://gooning.alphexo.dev/ ~~
@@ -12,7 +13,10 @@ https://femboysquad.github.io/
 CEO/CO-Founder ~ https://viatico.github.io/
 
 [Main Github Account](https://github.com/KrstlSkll69) ~ KrstlSkll69  
-[Secondary Github Account](https://github.com/KrystalSkullOfficial) ~ KrystalSkullOfficial
+[Secondary Github Account](https://github.com/KrystalSkullOfficial) ~ KrystalSkullOfficial  
+[git.gay](https://git.gay/KrstlSkll69) ~ KrstlSkll69  
+[git.nin0.dev](https://git.nin0.dev/krystalskullofficial) ~ KrystalSkullOfficial  
+[codeberg](https://codeberg.org/KrstlSkll69) ~ KrystalSkullOfficial
 
 Pro Idot Catgirl  
 Krystal/Cassidy🎀           
