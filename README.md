@@ -36,7 +36,7 @@ Self-Taught Dev
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=css,html,md,php,ts,js&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=css,html,md,php,ts,js,assembly&theme=dark" />
   </a>
 </p>
 
