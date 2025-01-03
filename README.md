@@ -58,8 +58,8 @@ Self-Taught Dev
 
 
 
-<a href="https://discord.com/users/929208515883569182"><img align="center" width="300" src="https://lanyard.cnrad.dev/api/929208515883569182"/></a>
-<a href="https://discord.com/users/1293221154156314738"><img align="center" width="300" src="https://lanyard.cnrad.dev/api/1293221154156314738"/></a>
+
+![discord](https://discord.c99.nl/widget/theme-3/929208515883569182.png) ![discord](https://discord.c99.nl/widget/theme-2/1293221154156314738.png)
 
 ### Other Badges:
 
