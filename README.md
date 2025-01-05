@@ -118,12 +118,18 @@ Equicord Badges ~
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=KrstlSkll69&show_icons=true&count_private=true&theme=dracula&bg_color=00000000">
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KrstlSkll69&layout=compact&theme=dracula&bg_color=00000000&langs_count=6&20notebook,tex,css,php,mb">
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=KrstlSkll69&theme=dracula&background=FFFFFF00">
-
+<h3 align="center">Visitors <em>github only</em> </h3>
+<p align="center">
+	<img src="https://count.getloli.com/@KrstlSkll69?name=KrstlSkll69&theme=booru-helltaker&padding=5&offset=-5&align=top&scale=1&pixelated=0&darkmode=1"> <br/>
+</p>
 
 ### Secondary Account (KrystalSkullOfficial):
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=KrystalSkullOfficial&show_icons=true&count_private=true&theme=dracula&bg_color=00000000">
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystalSkullOfficial&layout=compact&theme=dracula&bg_color=00000000&langs_count=6&20notebook,tex,css,php,mb">
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=KrystalSkullOfficial&theme=dracula&background=FFFFFF00">
-
+<h3 align="center">Visitors <em>github only</em></h3>
+<p align="center">
+	<img src="https://count.getloli.com/@KrystalSkullOfficial?name=KrstlSkll69&theme=booru-helltaker&padding=5&offset=-5&align=top&scale=1&pixelated=0&darkmode=1"> <br/>
+</p>
 
 ![](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/7vw6gev5.png)
