@@ -25,18 +25,14 @@ _Know as Indiana Jone (Indi) in Discord Client mod scene_
 Bisexual💖💜💙  
 Self-Taught Dev
 
-[![Programming_Socks](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/bnb3ftbu.gif 'Programmer Socks')](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/gbls9azs.png) 
-[![Boykisser](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/zc19lzgz.png 'You like kissing boys dont you')](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/nu5x4dz5.mp4)
-[![SBC](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/rxk4n9vp.png 'Southern Baptist Convention')](https://www.sbc.net/about/) 
-[![BY-NC-ND 4.0](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/0kpp91vk.png 'Profile  Picture is held under CC BY-NC-ND 4.0')](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)
-[![piracy now](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/719ne34x.png 'piracy now')]()
+[![Programming_Socks](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/bnb3ftbu.gif 'Programmer Socks')](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/gbls9azs.png)[![Boykisser](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/zc19lzgz.png 'You like kissing boys dont you')](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/nu5x4dz5.mp4)[![SBC](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/rxk4n9vp.png 'Southern Baptist Convention')](https://www.sbc.net/about/)[![BY-NC-ND 4.0](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/0kpp91vk.png 'Profile  Picture is held under CC BY-NC-ND 4.0')](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)[![piracy now](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/719ne34x.png 'piracy now')]()
 
 
 **Known Languages:**
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=css,html,md,php,ts,js,assembly&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=css,html,md,assembly,php,ts,js&theme=dark" />
   </a>
 </p>
 
@@ -117,7 +113,6 @@ Equicord Badges ~
 ### Main Account (KrstlSkll69):
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=KrstlSkll69&show_icons=true&count_private=true&theme=dracula&bg_color=00000000">
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KrstlSkll69&layout=compact&theme=dracula&bg_color=00000000&langs_count=6&20notebook,tex,css,php,mb">
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=KrstlSkll69&theme=dracula&background=FFFFFF00">
 <h3 align="center">Visitors <em>github only</em> </h3>
 <p align="center">
 	<img src="https://count.getloli.com/@KrstlSkll69?name=KrstlSkll69&theme=booru-helltaker&padding=5&offset=-5&align=top&scale=1&pixelated=0&darkmode=1"> <br/>
@@ -126,7 +121,6 @@ Equicord Badges ~
 ### Secondary Account (KrystalSkullOfficial):
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=KrystalSkullOfficial&show_icons=true&count_private=true&theme=dracula&bg_color=00000000">
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystalSkullOfficial&layout=compact&theme=dracula&bg_color=00000000&langs_count=6&20notebook,tex,css,php,mb">
-<img src ="https://github-readme-streak-stats.herokuapp.com?user=KrystalSkullOfficial&theme=dracula&background=FFFFFF00">
 <h3 align="center">Visitors <em>github only</em></h3>
 <p align="center">
 	<img src="https://count.getloli.com/@KrystalSkullOfficial?name=KrstlSkll69&theme=booru-helltaker&padding=5&offset=-5&align=top&scale=1&pixelated=0&darkmode=1"> <br/>
