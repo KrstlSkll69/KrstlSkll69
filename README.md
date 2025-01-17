@@ -74,8 +74,8 @@ Equicord Badges ~
 
 ![Equicord Contributor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/rjq8qmfu.png)
 ![Equicord Donor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/hdxpb3hb.png)
-![Viatico](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/7134bemh.png)
 ![Gustavo](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/if4b5v41.png)
+![Purrger](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/po2gg0b7.png)
 
 [EOL] [Suncord](https://github.com/verticalsync/Suncord) Badges ~
 
@@ -87,6 +87,11 @@ Equicord Badges ~
 ![The Number One](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/u9p96aow.png)
 ![The Thinker](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/81vl1n63.png)
 ![Empty Brain](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1m81004i.png)
+
+[Enmity](https://enmity.unbound.rip/) Badges ~
+
+![Supporter](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/vzu1cohh.png)
+
 
 </div>
 
