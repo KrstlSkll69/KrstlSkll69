@@ -109,7 +109,7 @@ Equicord Badges ~
 
 > **[Equicord](https://github.com/Equicord/Equicord) *fork of Vencord***
 
-> **[Github readme.md repo](https://github.com/KrstlSkll69/KrstlSkll69)**
+>  **[Snowycord](https://github.com/Snowycord) *a repo for anything BetterDiscord related***
 
 
 
