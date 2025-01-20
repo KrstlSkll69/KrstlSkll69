@@ -25,7 +25,7 @@ _Know as Indiana Jone (Indi) in Discord Client mod scene_
 Bisexual💖💜💙  
 Self-Taught Dev
 
-[![Programming_Socks](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/bnb3ftbu.gif 'Programmer Socks')](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/gbls9azs.png)[![Boykisser](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/zc19lzgz.png 'You like kissing boys dont you')](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/nu5x4dz5.mp4)[![SBC](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/rxk4n9vp.png 'Southern Baptist Convention')](https://www.sbc.net/about/)[![BY-NC-ND 4.0](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/0kpp91vk.png 'Profile  Picture is held under CC BY-NC-ND 4.0')](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)[![piracy now](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/719ne34x.png 'piracy now')]()
+[![Programming_Socks](https://cdn.nest.rip/uploads/ed27ab47-3573-438b-b67c-db95be33dae0 'Programmer Socks')](https://cdn.nest.rip/uploads/811976cb-ada9-4d6b-91b6-2a14254749c0 )[![Boykisser](https://cdn.nest.rip/uploads/a92c944b-2c2f-4248-8268-6930ee5e2973  'You like kissing boys dont you')](https://cdn.nest.rip/uploads/ebc7160b-bc67-4f3c-bb16-9c7504978b85.mp4)[![SBC](https://cdn.nest.rip/uploads/c5809c7b-302e-4fd8-b1ca-2a76a9b9e6f1.png 'Southern Baptist Convention')](https://www.sbc.net/about/)[![BY-NC-ND 4.0](https://cdn.nest.rip/uploads/db8a9d8f-25d0-45e4-89d9-f3d7249b88f5  'Profile  Picture is held under CC BY-NC-ND 4.0')](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)[![piracy now](https://cdn.nest.rip/uploads/32217de0-4b88-4482-89d9-7f08997cb0d5  'piracy now')]()
 
 
 **Known Languages:**
@@ -55,42 +55,42 @@ Self-Taught Dev
 
 
 
-![discord](https://discord.c99.nl/widget/theme-3/929208515883569182.png) ![discord](https://discord.c99.nl/widget/theme-2/1293221154156314738.png)
+![discord](https://discord.c99.nl/widget/theme-3/929208515883569182.png ) ![discord](https://discord.c99.nl/widget/theme-2/1293221154156314738.png )
 
 ### Other Badges:
 
 [Vencord](https://vencord.dev/) Badges ~ 
 
-![:3 girl](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1tkh0glq.png)
-![me watching you sleep](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/g35oty5l.png)
-![Empty Brain](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1m81004i.png)
+![:3 girl](https://cdn.nest.rip/uploads/2ea2a188-0e86-4bc8-b974-57e4837e7c3d )
+![me watching you sleep](https://cdn.nest.rip/uploads/91401066-595f-45ea-9ba1-a45415229eeb )
+![Empty Brain](https://cdn.nest.rip/uploads/47ff4411-61de-4e64-ad2e-f49915374e5c )
 
 [ReviewDB](https://reviewdb.mantikafasi.dev/) Badges ~
 
-![Donor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/3y4vm6by.png)
+![Donor](https://cdn.nest.rip/uploads/6f741bbf-1961-4aea-89f1-f05e4fd00294 )
 
 
 Equicord Badges ~ 
 
-![Equicord Contributor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/rjq8qmfu.png)
-![Equicord Donor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/hdxpb3hb.png)
-![Gustavo](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/if4b5v41.png)
-![Purrger](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/po2gg0b7.png)
+![Equicord Contributor](https://cdn.nest.rip/uploads/16911de4-a74f-4799-9919-c8043bb6f393 )
+![Equicord Donor](https://cdn.nest.rip/uploads/b8c1da64-7311-42b0-b033-a12774078376 )
+![Gustavo](https://cdn.nest.rip/uploads/29e9250f-fec2-4078-85f7-77b8a5afcb43 )
+![Purrger](https://cdn.nest.rip/uploads/936f089b-2dad-4ad3-ae99-da0a6aae9d6c )
 
 [EOL] [Suncord](https://github.com/verticalsync/Suncord) Badges ~
 
-![Suncord Contributor](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/ciihzuzn.png)
+![Suncord Contributor](https://cdn.nest.rip/uploads/19f32997-9df6-47a9-b2b7-e7857064669b )
 
 [Nekocord](https://nekocord.dev/) Badges ~
 
-![Early Public Tester](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/ujo7uhvp.png)
-![The Number One](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/u9p96aow.png)
-![The Thinker](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/81vl1n63.png)
-![Empty Brain](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/1m81004i.png)
+![Early Public Tester](https://cdn.nest.rip/uploads/58ba8d27-9124-49a9-8003-4597fe62323f )
+![The Number One](https://cdn.nest.rip/uploads/0882f436-4e2e-4462-9c3e-f0e84c117e0c )
+![The Thinker](https://cdn.nest.rip/uploads/69ef360e-3666-4854-8289-98f7aee79e91 )
+![Empty Brain](https://cdn.nest.rip/uploads/47ff4411-61de-4e64-ad2e-f49915374e5c )
 
 [Enmity](https://enmity.unbound.rip/) Badges ~
 
-![Supporter](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/vzu1cohh.png)
+![Supporter](https://cdn.nest.rip/uploads/e09c4d1a-bb13-4364-a3e1-b5f8aa909103 )
 
 
 </div>
@@ -131,4 +131,4 @@ Equicord Badges ~
 	<img src="https://count.getloli.com/@KrystalSkullOfficial?name=KrstlSkll69&theme=booru-helltaker&padding=5&offset=-5&align=top&scale=1&pixelated=0&darkmode=1"> <br/>
 </p>
 
-![](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/7vw6gev5.png)
+![](https://cdn.nest.rip/uploads/293b8f9f-4b73-4bcc-887a-1d410d871aa6 )

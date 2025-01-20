@@ -1,3 +1,3 @@
 # Code of Conduct
 
-![](https://r2.e-z.host/0d6d243c-fab1-41de-8ee7-252d5fae7f12/g0embcw3.gif)
+![](https://cdn.nest.rip/uploads/432b489d-b34f-4c9c-8761-e09a3d8d8b8e )
