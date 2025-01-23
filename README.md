@@ -1,7 +1,6 @@
-<div align="center">  
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text=KrstlSkll69"> </p> 
 
-# HOWD'Y 👋
-My name is Krystal
+<div align="center">  
 
 https://krstlskll69.github.io/ ~~
 https://krstlskll69.pages.gay/
@@ -115,20 +114,34 @@ Equicord Badges ~
 
 ## Stats:
 
+<div align="center">  
+
 ### Main Account (KrstlSkll69):
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=KrstlSkll69&show_icons=true&count_private=true&theme=dracula&bg_color=00000000">
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KrstlSkll69&layout=compact&theme=dracula&bg_color=00000000&langs_count=6&20notebook,tex,css,php,mb">
-<h3 align="center">Visitors <em>github only</em> </h3>
-<p align="center">
-	<img src="https://count.getloli.com/@KrstlSkll69?name=KrstlSkll69&theme=booru-helltaker&padding=5&offset=-5&align=top&scale=1&pixelated=0&darkmode=1"> <br/>
+<p align="center" width="auto" height="50%" >
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api?username=KrstlSkll69&show_icons=true&count_private=true&theme=dracula&bg_color=00000000">
+  </a>
+</p> 
+<p align="center" width="auto" height="50%" >
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrstlSkll69&layout=compact&theme=dracula&bg_color=00000000&langs_count=6&20notebook,tex,css,php,mb">
+  </a>
 </p>
 
+
 ### Secondary Account (KrystalSkullOfficial):
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=KrystalSkullOfficial&show_icons=true&count_private=true&theme=dracula&bg_color=00000000">
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystalSkullOfficial&layout=compact&theme=dracula&bg_color=00000000&langs_count=6&20notebook,tex,css,php,mb">
-<h3 align="center">Visitors <em>github only</em></h3>
-<p align="center">
-	<img src="https://count.getloli.com/@KrystalSkullOfficial?name=KrstlSkll69&theme=booru-helltaker&padding=5&offset=-5&align=top&scale=1&pixelated=0&darkmode=1"> <br/>
+
+<p align="center" width="auto" height="50%" >
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api?username=KrystalSkullOfficial&show_icons=true&count_private=true&theme=dracula&bg_color=00000000">
+  </a>
+</p> 
+<p align="center" width="auto" height="50%" >
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystalSkullOfficial&layout=compact&theme=dracula&bg_color=00000000&langs_count=6&20notebook,tex,css,php,mb">
+  </a>
 </p>
+
+</div>
 
 ![](https://cdn.nest.rip/uploads/293b8f9f-4b73-4bcc-887a-1d410d871aa6 )
