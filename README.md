@@ -141,7 +141,10 @@ Equicord Badges ~
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrystalSkullOfficial&layout=compact&theme=dracula&bg_color=00000000&langs_count=6&20notebook,tex,css,php,mb">
   </a>
 </p>
-
 </div>
 
 ![](https://cdn.nest.rip/uploads/293b8f9f-4b73-4bcc-887a-1d410d871aa6 )
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&section=footer"> </p> 
+
+
