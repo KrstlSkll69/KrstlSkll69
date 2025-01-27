@@ -57,39 +57,17 @@ Self-Taught Dev
 ![discord](https://discord.c99.nl/widget/theme-3/929208515883569182.png ) ![discord](https://discord.c99.nl/widget/theme-2/1293221154156314738.png )
 
 ### Other Badges:
-
-[Vencord](https://vencord.dev/) Badges ~ 
-
-![:3 girl](https://cdn.nest.rip/uploads/2ea2a188-0e86-4bc8-b974-57e4837e7c3d )
-![me watching you sleep](https://cdn.nest.rip/uploads/91401066-595f-45ea-9ba1-a45415229eeb )
-![Empty Brain](https://cdn.nest.rip/uploads/47ff4411-61de-4e64-ad2e-f49915374e5c )
+<h3 style="font-size:x-small; margin-top:-12px"> Most Badges have be moved to show on my website </h3>
 
 [ReviewDB](https://reviewdb.mantikafasi.dev/) Badges ~
 
 ![Donor](https://cdn.nest.rip/uploads/6f741bbf-1961-4aea-89f1-f05e4fd00294 )
 
 
-Equicord Badges ~ 
-
-![Equicord Contributor](https://cdn.nest.rip/uploads/16911de4-a74f-4799-9919-c8043bb6f393 )
-![Equicord Donor](https://cdn.nest.rip/uploads/b8c1da64-7311-42b0-b033-a12774078376 )
-![Gustavo](https://cdn.nest.rip/uploads/29e9250f-fec2-4078-85f7-77b8a5afcb43 )
-![Purrger](https://cdn.nest.rip/uploads/936f089b-2dad-4ad3-ae99-da0a6aae9d6c )
-
 [EOL] [Suncord](https://github.com/verticalsync/Suncord) Badges ~
 
 ![Suncord Contributor](https://cdn.nest.rip/uploads/19f32997-9df6-47a9-b2b7-e7857064669b )
 
-[Nekocord](https://nekocord.dev/) Badges ~
-
-![Early Public Tester](https://cdn.nest.rip/uploads/58ba8d27-9124-49a9-8003-4597fe62323f )
-![The Number One](https://cdn.nest.rip/uploads/0882f436-4e2e-4462-9c3e-f0e84c117e0c )
-![The Thinker](https://cdn.nest.rip/uploads/69ef360e-3666-4854-8289-98f7aee79e91 )
-![Empty Brain](https://cdn.nest.rip/uploads/47ff4411-61de-4e64-ad2e-f49915374e5c )
-
-[Enmity](https://enmity.unbound.rip/) Badges ~
-
-![Supporter](https://cdn.nest.rip/uploads/e09c4d1a-bb13-4364-a3e1-b5f8aa909103 )
 
 
 </div>
