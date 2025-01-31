@@ -56,19 +56,6 @@ Self-Taught Dev
 
 ![discord](https://discord.c99.nl/widget/theme-3/929208515883569182.png ) ![discord](https://discord.c99.nl/widget/theme-2/1293221154156314738.png )
 
-### Other Badges:
-<h3 style="font-size:x-small; margin-top:-12px"> Most Badges have be moved to show on my website </h3>
-
-[ReviewDB](https://reviewdb.mantikafasi.dev/) Badges ~
-
-![Donor](https://cdn.nest.rip/uploads/6f741bbf-1961-4aea-89f1-f05e4fd00294 )
-
-
-[EOL] [Suncord](https://github.com/verticalsync/Suncord) Badges ~
-
-![Suncord Contributor](https://cdn.nest.rip/uploads/19f32997-9df6-47a9-b2b7-e7857064669b )
-
-
 
 </div>
 
