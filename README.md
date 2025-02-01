@@ -14,8 +14,6 @@ CEO/CO-Founder ~ https://viatico.github.io/
 [Main Github Account](https://github.com/KrstlSkll69) ~ KrstlSkll69  
 [Secondary Github Account](https://github.com/KrystalSkullOfficial) ~ KrystalSkullOfficial  
 [git.gay](https://git.gay/KrstlSkll69) ~ KrstlSkll69  
-[git.nin0.dev](https://git.nin0.dev/krystalskullofficial) ~ KrystalSkullOfficial  
-[codeberg](https://codeberg.org/KrstlSkll69) ~ KrystalSkullOfficial
 
 Pro Idot Catgirl  
 Krystal/Cassidy🎀           
@@ -31,7 +29,7 @@ Self-Taught Dev
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=css,html,md,assembly,php,ts,js&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=md,css,html,ts,js&theme=dark" />
   </a>
 </p>
 
@@ -47,7 +45,7 @@ Self-Taught Dev
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,apple,mint,nix,raspberrypi,reactos&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=windows,mint,nix,reactos&theme=dark" />
   </a>
 </p>
 
