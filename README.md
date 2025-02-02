@@ -2,8 +2,8 @@
 
 <div align="center">  
 
-https://krstlskll69.github.io/ ~~
-https://krstlskll69.pages.gay/
+[![My Website](https://cdn.nest.rip/uploads/14ef7c20-50e1-4f3e-94b6-e2b69667f54c.png 'My Website')](https://krstlskll69.github.io/)
+[![VIATICO](https://cdn.nest.rip/uploads/3f432e49-cb4a-4903-ab44-a480baf90108.png 'VIATICO')](https://viatico.github.io/)
 
 https://krystal.thororen.com/ ~~
 https://gooning.alphexo.dev/ ~~
