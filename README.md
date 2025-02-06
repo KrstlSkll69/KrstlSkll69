@@ -22,8 +22,7 @@ _Know as Indiana Jone (Indi) in Discord Client mod scene_
 Bisexual💖💜💙  
 Self-Taught Dev
 
-[![Programming_Socks](https://cdn.nest.rip/uploads/ed27ab47-3573-438b-b67c-db95be33dae0 'Programmer Socks')](https://cdn.nest.rip/uploads/811976cb-ada9-4d6b-91b6-2a14254749c0 )[![BY-NC-ND 4.0](https://cdn.nest.rip/uploads/db8a9d8f-25d0-45e4-89d9-f3d7249b88f5  'Profile  Picture is held under CC BY-NC-ND 4.0')](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)[![SBC](https://cdn.nest.rip/uploads/c5809c7b-302e-4fd8-b1ca-2a76a9b9e6f1.png 'Southern Baptist Convention')](https://www.sbc.net/about/)[![piracy now](https://cdn.nest.rip/uploads/32217de0-4b88-4482-89d9-7f08997cb0d5  'piracy now')]()
-
+[![Programming_Socks](https://cdn.nest.rip/uploads/ed27ab47-3573-438b-b67c-db95be33dae0 'Programmer Socks')](https://cdn.nest.rip/uploads/811976cb-ada9-4d6b-91b6-2a14254749c0 )[![BY-NC-ND 4.0](https://cdn.nest.rip/uploads/db8a9d8f-25d0-45e4-89d9-f3d7249b88f5  'Profile  Picture is held under CC BY-NC-ND 4.0')](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)[![SBC](https://cdn.nest.rip/uploads/c5809c7b-302e-4fd8-b1ca-2a76a9b9e6f1.png 'Southern Baptist Convention')](https://www.sbc.net/about/)[![I dont support OSI](https://cdn.nest.rip/uploads/405873d9-51d8-4e96-a7a8-3130e9134863.png 'I dont support OSI')](https://www.gnu.org/philosophy/open-source-misses-the-point)
 
 **Known Languages:**
 
@@ -106,7 +105,7 @@ Self-Taught Dev
 </p>
 </div>
 
-![](https://cdn.nest.rip/uploads/293b8f9f-4b73-4bcc-887a-1d410d871aa6 )
+[^1]: Discord brought a breaking change for the mod in question.
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&section=footer"> </p> 
 
