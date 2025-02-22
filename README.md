@@ -105,8 +105,7 @@ Self-Taught Dev
 </p>
 </div>
 
-[^1]: Discord brought a breaking change for the mod in question.
-
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&section=footer"> </p> 
 
-
+CreativeCommon Canonical URL https://creativecommons.org/licenses/by-nc-nd/4.0/ </br>
+`SPDX-License-Identifier: By-Nc-Nd OR GPL-3.0-or-later`
