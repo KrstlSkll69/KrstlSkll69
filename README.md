@@ -2,7 +2,7 @@
 
 <div align="center">  
 
-[![My Website](https://cdn.nest.rip/uploads/14ef7c20-50e1-4f3e-94b6-e2b69667f54c.png 'My Website')](https://krstlskll69.github.io/)
+[![My Website](https://cdn.nest.rip/uploads/9928cb62-df3e-48ee-8a58-c43900e8889c.gif 'My Website')](https://krstlskll69.github.io/)
 [![VIATICO](https://cdn.nest.rip/uploads/3f432e49-cb4a-4903-ab44-a480baf90108.png 'VIATICO')](https://viatico.github.io/)
 
 https://krystal.thororen.com/ ~~
@@ -106,6 +106,3 @@ Self-Taught Dev
 </div>
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&section=footer"> </p> 
-
-CreativeCommon Canonical URL https://creativecommons.org/licenses/by-nc-nd/4.0/ </br>
-`SPDX-License-Identifier: By-Nc-Nd OR GPL-3.0-or-later`
