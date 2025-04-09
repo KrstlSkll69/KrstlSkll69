@@ -16,7 +16,7 @@ CEO/CO-Founder ~ https://viatico.github.io/
 [git.gay](https://git.gay/KrstlSkll69) ~ KrstlSkll69  
 
 Pro Idot Catgirl  
-Krystal/Cassidy🎀           
+Krystal/Juniper/Macintosh🌸
 _Know as Indiana Jone (Indi) in Discord Client mod scene_              
 20🎂  
 Bisexual💖💜💙  
