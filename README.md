@@ -22,7 +22,7 @@ _Know as Indiana Jone (Indi) in Discord Client mod scene_
 Bisexual💖💜💙  
 Self-Taught Dev
 
-[![BY-NC-ND 4.0](https://viatico.github.io/images/88x31/81e249b0-5f74-42bd-90f9-78a2b2c5d851.avif  'Profile  Picture is held under CC BY-NC-ND 4.0')](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)[![SBC](https://cdn.nest.rip/uploads/c5809c7b-302e-4fd8-b1ca-2a76a9b9e6f1.png 'Southern Baptist Convention')](https://www.sbc.net/about/)[![I dont support OSI](https://cdn.nest.rip/uploads/405873d9-51d8-4e96-a7a8-3130e9134863.png 'I dont support OSI')](https://www.gnu.org/philosophy/open-source-misses-the-point)
+[![BY-NC-ND 4.0](https://cdn.nest.rip/uploads/6923055c-5314-4c78-8008-25fc6d9aa85d.avif  'Profile  Picture is held under CC BY-NC-ND 4.0')](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)[![SBC](https://cdn.nest.rip/uploads/c5809c7b-302e-4fd8-b1ca-2a76a9b9e6f1.png 'Southern Baptist Convention')](https://www.sbc.net/about/)[![I dont support OSI](https://cdn.nest.rip/uploads/405873d9-51d8-4e96-a7a8-3130e9134863.png 'I dont support OSI')](https://www.gnu.org/philosophy/open-source-misses-the-point)
 
 **Known Languages:**
 
