@@ -15,12 +15,12 @@ CEO/CO-Founder ~ https://viatico.github.io/
 [Secondary Github Account](https://github.com/KrystalSkullOfficial) ~ KrystalSkullOfficial  
 [git.gay](https://git.gay/KrstlSkll69) ~ KrstlSkll69  
 
-Pro Idot Catgirl  
-Krystal/Juniper/Macintosh🌸
-_Know as Indiana Jone (Indi) in Discord Client mod scene_              
-20🎂  
-Bisexual💖💜💙  
-Self-Taught Dev
+Pro Idot Catgirl </br>
+Krystal/Juniper/Macintosh🌸 </br>
+_Know as Indiana Jone (Indi) in Discord Client mod scene_ </br>
+20🎂 </br>
+Bisexual💖💜💙 </br>
+Self-Taught Dev </br>
 
 [![BY-NC-ND 4.0](https://cdn.nest.rip/uploads/6923055c-5314-4c78-8008-25fc6d9aa85d.avif  'Profile  Picture is held under CC BY-NC-ND 4.0')](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en)[![SBC](https://cdn.nest.rip/uploads/c5809c7b-302e-4fd8-b1ca-2a76a9b9e6f1.png 'Southern Baptist Convention')](https://www.sbc.net/about/)[![I dont support OSI](https://cdn.nest.rip/uploads/405873d9-51d8-4e96-a7a8-3130e9134863.png 'I dont support OSI')](https://www.gnu.org/philosophy/open-source-misses-the-point)
 
