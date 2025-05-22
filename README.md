@@ -28,7 +28,7 @@ Self-Taught Dev </br>
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=md,css,scss,html,json,js,ts&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=md,yaml,css,scss,html,json,js,ts&theme=dark" />
   </a>
 </p>
 
