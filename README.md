@@ -58,9 +58,13 @@ Self-Taught Dev </br>
 
 ## Projects:
 
-> **[WriteUpperCase](https://github.com/KrstlSkll69/WriteUpperCase) *a Third-party/Unofficial plugin for Vencord*** 
+> **[WriteUpperCase](https://github.com/KrstlSkll69/WriteUpperCase) ~ *a Third-party/Unofficial plugin for Vencord*** 
 
-> **[Signature](https://github.com/KrstlSkll69/Signature) *a Third-party/Unofficial plugin for Vencord*** 
+> **[Signature](https://github.com/KrstlSkll69/Signature) ~ *a Third-party/Unofficial plugin for Vencord*** 
+
+> **[betterNSFWTag](https://github.com/KrstlSkll69/betterNSFWTag) ~ *a Third-party/Unofficial plugin for Vencord*** 
+
+> **[CuteAnimeBoys](https://github.com/KrstlSkll69/cuteAnimeBoys) ~ *a Third-party/Unofficial plugin for Vencord*** 
 
 > **[My Website Repo](https://github.com/KrstlSkll69/krstlskll69.github.com)**
 
